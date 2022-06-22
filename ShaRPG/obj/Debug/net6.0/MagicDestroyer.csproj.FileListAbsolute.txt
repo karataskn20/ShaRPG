@@ -1,0 +1,5 @@
+C:\Users\nurda\Desktop\MagicDestroyer\MagicDestroyer\obj\Debug\net6.0\MagicDestroyer.csproj.AssemblyReference.cache
+C:\Users\nurda\Desktop\MagicDestroyer\MagicDestroyer\obj\Debug\net6.0\MagicDestroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurda\Desktop\MagicDestroyer\MagicDestroyer\obj\Debug\net6.0\MagicDestroyer.AssemblyInfoInputs.cache
+C:\Users\nurda\Desktop\MagicDestroyer\MagicDestroyer\obj\Debug\net6.0\MagicDestroyer.AssemblyInfo.cs
+C:\Users\nurda\Desktop\MagicDestroyer\MagicDestroyer\obj\Debug\net6.0\MagicDestroyer.csproj.CoreCompileInputs.cache
