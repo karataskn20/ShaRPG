@@ -42,6 +42,7 @@ namespace Characters.Magic
 
         public override void SpecialAttack() //LifeDrain
         {
+
         }
 
         public override void Defend () //VampiricTouch
